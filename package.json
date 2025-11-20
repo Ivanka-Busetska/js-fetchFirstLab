@@ -1,18 +1,27 @@
 {
-  "name": "js-fetchfirstlab",
+  "name": "lab7",
   "version": "1.0.0",
-  "description": "",
   "main": "fetchInfo.js",
   "directories": {
-    "test": "tests"
+    "test": "tests",
+    "tasks": "tasks"
   },
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ivanka511",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivanka-Busetska/js-fetchFirstLab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ivanka-Busetska/js-fetchFirstLab/issues"
+  },
+  "homepage": "https://github.com/Ivanka-Busetska/js-fetchFirstLab#readme",
+  "description": ""
 }
